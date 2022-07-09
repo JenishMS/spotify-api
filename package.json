@@ -1,0 +1,15 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "Spotify API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Spotify",
+    "JenishMS"
+  ],
+  "author": "JenishMS <jenishmstephen@gmail.com>",
+  "license": "ISC"
+}
